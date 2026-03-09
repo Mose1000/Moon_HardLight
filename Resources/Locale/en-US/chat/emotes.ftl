@@ -31,14 +31,7 @@ chat-emote-name-cathisses = Cat Hisses
 chat-emote-name-monkeyscreeches = Monkey Screeches
 chat-emote-name-robotbeep = Robot
 chat-emote-name-yawn = Yawn
-chat-emote-name-flap = Flap Wings
-chat-emote-name-stroke = Stroke
-chat-emote-name-plap = Plap
-chat-emote-name-wetplap = Wet Plap
-chat-emote-name-wetplorp = Wet Plorp
-chat-emote-name-pullout = Pull Out
-chat-emote-name-cumin = Cum Inside
-chat-emote-name-cumout = Cum Inside
+chat-emote-name-snore = Snore
 
 # Message
 chat-emote-msg-scream = screams!
