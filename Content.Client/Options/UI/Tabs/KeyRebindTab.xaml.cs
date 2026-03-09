@@ -99,11 +99,11 @@ namespace Content.Client.Options.UI.Tabs
         }
 
         // EE
-        private void HandleHoldLookUp(BaseButton.ButtonToggledEventArgs args)
-        {
-            _cfg.SetCVar(FloofCCVars.HoldLookUp, args.Pressed);
-            _cfg.SaveToFile();
-        }
+        // private void HandleHoldLookUp(BaseButton.ButtonToggledEventArgs args)
+        // {
+        //     _cfg.SetCVar(FloofCCVars.HoldLookUp, args.Pressed);
+        //     _cfg.SaveToFile();
+        // }
 
         private void HandleStaticStorageUI(BaseButton.ButtonToggledEventArgs args)
         {
@@ -206,7 +206,7 @@ namespace Content.Client.Options.UI.Tabs
             AddButton(ContentKeyFunctions.ToggleCrawlingUnder);
             AddButton(ContentKeyFunctions.LookUp);
             AddCheckBox("ui-options-function-auto-get-up", _cfg.GetCVar(CCVars.AutoGetUp), HandleToggleAutoGetUp);
-            AddCheckBox("ui-options-function-hold-look-up", _cfg.GetCVar(FloofCCVars.HoldLookUp), HandleHoldLookUp);
+            // AddCheckBox("ui-options-function-hold-look-up", _cfg.GetCVar(FloofCCVars.HoldLookUp), HandleHoldLookUp);
             // EE section end
 
             AddHeader("ui-options-header-interaction-adv");

@@ -30,20 +30,20 @@ public sealed class TelescopeSystem : SharedTelescopeSystem
     private bool _holdLookUp;
     private bool _toggled;
 
-    public override void Initialize()
-    {
-        base.Initialize();
+    // public override void Initialize()
+    // {
+    //     base.Initialize();
 
-        _cfg.OnValueChanged(FloofCCVars.HoldLookUp,
-            val =>
-            {
-                var input = val ? null : InputCmdHandler.FromDelegate(_ => _toggled = !_toggled);
-                _input.SetInputCommand(ContentKeyFunctions.LookUp, input);
-                _holdLookUp = val;
-                _toggled = false;
-            },
-            true);
-    }
+    //     _cfg.OnValueChanged(FloofCCVars.HoldLookUp,
+    //         val =>
+    //         {
+    //             var input = val ? null : InputCmdHandler.FromDelegate(_ => _toggled = !_toggled);
+    //             _input.SetInputCommand(ContentKeyFunctions.LookUp, input);
+    //             _holdLookUp = val;
+    //             _toggled = false;
+    //         },
+    //         true);
+    // }
 
     public override void FrameUpdate(float frameTime)
     {
