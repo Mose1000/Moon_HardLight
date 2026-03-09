@@ -1,4 +1,4 @@
-- type: vendingMachineInventory
+﻿- type: vendingMachineInventory
   id: StarkistInventory
   startingInventory:
     DrinkStarkistCan: 6
@@ -9,9 +9,6 @@
     DrinkLemonLimeCan: 2
     DrinkLemonLimeCranberryCan: 2
     DrinkFourteenLokoCan: 2
-    DrinkNNNCan: 3 #Floofstation
-  # contrabandInventory: # Frontier
-  #   FoodBurgerCarp: 2 # Frontier
   emaggedInventory:
     DrinkNukieCan: 2
     DrinkChangelingStingCan: 2

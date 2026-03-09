@@ -1,9 +1,9 @@
 using Robust.Shared.Configuration;
 
-namespace Content.Shared.Floofstation;
+namespace Content.Shared.Floofstation.FSCVars;
 
 /// <summary>
-/// Floofstation specific cvars.
+/// Floofstation cvars!
 /// </summary>
 [CVarDefs]
 // ReSharper disable once InconsistentNaming - Shush you

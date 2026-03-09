@@ -123,8 +123,9 @@
       amount: 2
     - id: DrinkCreamCarton
       amount: 2
-    - id: DrinkCumBottleFull # Floof
-      amount: 2
+      # Flooftier - uncomment once cum bottle added
+    # - id: DrinkCumBottleFull # Floof
+      # amount: 2
     - id: DrinkIceJug # Floof
       amount: 2
 
@@ -149,8 +150,9 @@
         amount: 4
       - id: DrinkFourteenLokoCan
         amount: 2
-      - id: DrinkNNNCan # Floof
-        amount: 2
+        # Flooftier - uncomment once NNN ported
+      # - id: DrinkNNNCan # Floof
+        # amount: 2
 
 - type: entity
   id: CrateFoodGetMore
@@ -249,8 +251,6 @@
       amount: 4
     - id: DrinkFourteenLokoCan
       amount: 2
-    - id: DrinkNNNCan # Floof
-      amount: 4
 
 - type: entity
   id: CrateFoodSoftdrinksLarge
@@ -274,6 +274,3 @@
         amount: 8
       - id: DrinkFourteenLokoCan
         amount: 4
-      - id: DrinkNNNCan # Floof
-        amount: 4
-
