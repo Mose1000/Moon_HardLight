@@ -98,7 +98,5 @@ namespace Content.Shared.Verbs
 
         // EE interaction system
         public static readonly VerbCategory Interaction = new("verb-categories-interaction", null);
-
-        public static readonly VerbCategory Vore = new("verb-categories-vore", null); // Floofstation
     }
 }

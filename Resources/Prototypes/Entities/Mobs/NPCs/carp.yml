@@ -103,7 +103,6 @@
     interfaces:
       enum.SurgeryUIKey.Key:
         type: SurgeryBui
-  - type: Vore 
   - type: Xeno
     allowPlantWeeds: false
   - type: XenoAIAutoEvolve
@@ -205,7 +204,7 @@
     evolveIn: 180
     evolvesTo:
     - MobCarpRainbow
-    
+
 - type: entity
   parent: BaseFish
   id: MobCarp
@@ -276,7 +275,7 @@
       shader: unshaded
   - type: TypingIndicator
     proto: guardian
-    
+
 - type: entity
   name: holocarp
   parent: BaseMobCarp
@@ -306,7 +305,7 @@
     evolveIn: 180
     evolvesTo:
     - MobSharkHolo
-    
+
 - type: entity
   id: MobSharkHolo
   parent: MobShark
@@ -334,7 +333,7 @@
         - Opaque
   - type: TypingIndicator
     proto: robot
-    
+
 - type: entity
   parent: MobCarp
   id: MobCarpRainbow
@@ -366,7 +365,7 @@
     energy: 0.5
   - type: RgbLightController
     layers: [ 0 ]
-    
+
 - type: entity
   id: MobCarpSalvage
   parent: MobCarp
@@ -412,7 +411,7 @@
     - enum.DamageStateVisualLayers.Base:
         alive: Rainbow
       enum.DamageStateVisualLayers.BaseUnshaded:
-        mouth: ""  
+        mouth: ""
 
 - type: entity
   id: MobCarpDungeon
