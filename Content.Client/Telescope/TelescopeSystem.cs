@@ -1,7 +1,7 @@
 using System.Numerics;
 using Content.Client.Viewport;
-using Content.Shared.CCVar;
-using Content.Shared.Floofstation;
+// using Content.Shared.CCVar;
+// using Content.Shared.Floofstation;
 using Content.Shared.Telescope;
 using Content.Shared.Input;
 using Robust.Client.GameObjects;
@@ -11,7 +11,7 @@ using Robust.Client.Player;
 using Robust.Client.UserInterface;
 using Robust.Shared.Configuration;
 using Robust.Shared.Input;
-using Robust.Shared.Input.Binding;
+// using Robust.Shared.Input.Binding;
 using Robust.Shared.Timing;
 
 namespace Content.Client.Telescope;
