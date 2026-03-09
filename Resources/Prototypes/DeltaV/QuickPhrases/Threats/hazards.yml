@@ -104,8 +104,3 @@
   id: HazardBrokenEquipmentPhrase
   parent: BaseHazardThreatPhrase
   text: phrase-hazard-broken-equipment
-
-- type: quickPhrase
-  id: HazardLoosePhrase
-  parent: BaseHazardThreatPhrase
-  text: phrase-hazard-loose
