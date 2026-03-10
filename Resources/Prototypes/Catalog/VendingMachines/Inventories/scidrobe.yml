@@ -45,17 +45,8 @@
     ClothingNeckMantleRD: 1
     ClothingNeckCloakRd: 1
     ClothingHandsGlovesColorPurple: 1
-    #ClothingHeadsetAltScience: 1
-    #RubberStampRd: 1
-    ClothingHandsEpiWarmers: 3
-    ClothingUnderSocksEpi: 3
-    ClothingUniformEpiThong: 3
-    ClothingHandsEpiHeadWarmers: 3
-    ClothingUnderSocksEpiHead: 3
-    ClothingUniformEpiHeadThong: 3
-    ClothingHandsMantisEpiWarmers: 3
-    ClothingUnderSocksMantisEpi: 3
-    ClothingUniformMantisEpiThong: 3
+    ClothingHeadsetAltScience: 1
+    RubberStampRd: 1
     # End Frontier
   contrabandInventory:
     ToyFigurineResearchDirector: 1

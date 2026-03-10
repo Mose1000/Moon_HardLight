@@ -108,20 +108,6 @@
     ClothingNeckCollarBlue: 2 # Floofstation - Collar addition
     ClothingNeckCollarBlack: 2 # Floofstation - Collar addition
     ClothingNeckCollarPink: 2 # Floofstation - Collar addition
-    ClothingOuterCyberJacket: 2
-    ClothingOuterCyberJacketPurple: 2
-    ClothingOuterCyberJacketYellow: 2
-    ClothingUniformloincloth: 2
-    ClothingUniformloinclothWhite: 2
-    ClothingOuterBeltedWear: 2
-    ClothingOuterTransparentOuterwear: 2
-    # Coats ported from RMC to Hardlight by Rtasva
-    RMCCoatBomberBlack: 2
-    RMCCoatBomber: 2
-    RMCCoatBomberGrey: 2
-    RMCCoatBomberKhaki: 2
-    RMCCoatBomberRed: 2
-    # End Coats
   contrabandInventory:
     ClothingMaskNeckGaiter: 2
     ClothingUniformJumpsuitTacticool: 1

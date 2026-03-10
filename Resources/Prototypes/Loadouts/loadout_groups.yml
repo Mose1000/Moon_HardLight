@@ -125,9 +125,6 @@
   - CaptainJumpskirt
   - CaptainFormalSuit
   - CaptainFormalSkirt
-  - CaptainClothingJumpsuitThong # HL - Add lingerie
-  subgroups:
-  - ContractorJumpsuit # HL - Add departmental NF-style loadouts
 
 - type: loadoutGroup
   id: CaptainNeck
@@ -201,8 +198,6 @@
   minLimit: 0
   loadouts:
   - HoPWintercoat
-  subgroups:
-  - ContractorOuterClothing # HL - Add departmental NF-style loadouts
 
 # Civilian
 - type: loadoutGroup
