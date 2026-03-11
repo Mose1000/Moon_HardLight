@@ -125,24 +125,8 @@
   - CaptainJumpskirt
   - CaptainFormalSuit
   - CaptainFormalSkirt
-<<<<<<< HEAD
-=======
   subgroups:
   - ContractorJumpsuit # HL - Add departmental NF-style loadouts
->>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
-
-- type: loadoutGroup
-  id: CaptainGear
-  name: loadout-group-captain-gear
-  minLimit: 0
-  maxLimit: 6
-  loadouts:
-  - CaptainSocks
-  - CaptainWarmers
-  - CaptainThong
-  - CommandSocks
-  - CommandWarmers
-  - CommandThong
 
 - type: loadoutGroup
   id: CaptainNeck
@@ -215,16 +199,6 @@
   minLimit: 0
   loadouts:
   - HoPWintercoat
-
-- type: loadoutGroup
-  id: CommandGear
-  name: loadout-group-command-gear
-  minLimit: 0
-  maxLimit: 6
-  loadouts:
-  - CommandSocks
-  - CommandWarmers
-  - CommandThong
 
 # Civilian
 - type: loadoutGroup
@@ -1173,10 +1147,6 @@
   loadouts:
   - WardenJumpsuit
   - WardenJumpskirt
-<<<<<<< HEAD
-  - SecurityClothingJumpsuitThong #HL - Add lingerie
-=======
->>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   subgroups:
   - ContractorJumpsuit # HL - Add departmental NF-style loadouts
 
@@ -1211,11 +1181,7 @@
   - SecurityJumpskirtGrey
   - SeniorOfficerJumpsuit
   - SeniorOfficerJumpskirt
-<<<<<<< HEAD
-  - SecurityClothingJumpsuitThong #HL - Add lingerie
-=======
   - TrooperUniform
->>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   subgroups:
   - ContractorJumpsuit # HL - Add departmental NF-style loadouts
 
