@@ -1139,7 +1139,6 @@
   - ClothingNeckTransPin
   - ClothingNeckAutismPin
   - ClothingNeckGoldAutismPin
-  # - LeashBasic # Floofstation
 
 - type: loadoutGroup
   id: ContractorBoxSurvival
