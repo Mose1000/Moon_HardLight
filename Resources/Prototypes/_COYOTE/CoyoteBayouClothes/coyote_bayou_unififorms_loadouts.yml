@@ -286,14 +286,14 @@
   equipment:
     jumpsuit: CoolCoyoteClothesConquistador
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesCorset
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesCorset
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesCorset
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesCorset
 
 - type: loadout
   id: LoadoutCoolCoyoteClothesCorsetDress
@@ -1636,14 +1636,14 @@
   equipment:
     jumpsuit: CoolCoyoteClothesWesternBustle
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesWhitebunnysuit
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesWhitebunnysuit
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesWhitebunnysuit
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesWhitebunnysuit
 
 - type: loadout
   id: LoadoutCoolCoyoteClothesWhitegown
@@ -1672,14 +1672,14 @@
   equipment:
     jumpsuit: CoolCoyoteClothesYellowwshort
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesGearHarness
-  price: 100
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesGearHarness
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesGearHarness
+#   price: 100
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesGearHarness
 
 
 

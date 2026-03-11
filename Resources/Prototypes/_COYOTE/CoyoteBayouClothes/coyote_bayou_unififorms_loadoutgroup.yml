@@ -33,7 +33,7 @@
   - LoadoutCoolCoyoteClothesCheongWhite
   - LoadoutCoolCoyoteClothesCheongWhiteShort
   - LoadoutCoolCoyoteClothesConquistador
-  - LoadoutCoolCoyoteClothesCorset
+  # - LoadoutCoolCoyoteClothesCorset
   - LoadoutCoolCoyoteClothesCorsetDress
   - LoadoutCoolCoyoteClothesCountess
   - LoadoutCoolCoyoteClothesCrinoline
@@ -89,17 +89,17 @@
   - LoadoutCoolCoyoteClothesKimonoViolet
   - LoadoutCoolCoyoteClothesKimonoYellow
   - LoadoutCoolCoyoteClothesLandschneckt
-  - LoadoutCoolCoyoteClothesLatexHalf
+  # - LoadoutCoolCoyoteClothesLatexHalf
   - LoadoutCoolCoyoteClothesLeavesSkirt
   - LoadoutCoolCoyoteClothesLeavesSkirtLong
   - LoadoutCoolCoyoteClothesLeia
   - LoadoutCoolCoyoteClothesLightHanfu
   - LoadoutCoolCoyoteClothesLittleBlackDress
-  - LoadoutCoolCoyoteClothesLoincloth
+  # - LoadoutCoolCoyoteClothesLoincloth
   # - LoadoutCoolCoyoteClothesSexyMaid
   - LoadoutCoolCoyoteClothesMaurader
   - LoadoutCoolCoyoteClothesMarlowDuds
-  - LoadoutCoolCoyoteClothesMayanLoincloth
+  # - LoadoutCoolCoyoteClothesMayanLoincloth
   - LoadoutCoolCoyoteClothesMikuBikini
   - LoadoutCoolCoyoteClothesOliveCargoPunk
   - LoadoutCoolCoyoteClothesPentatop
@@ -182,8 +182,8 @@
   - LoadoutCoolCoyoteClothesWaistcoat
   - LoadoutCoolCoyoteClothesWestender
   - LoadoutCoolCoyoteClothesWesternBustle
-  - LoadoutCoolCoyoteClothesWhitebunnysuit
+  # - LoadoutCoolCoyoteClothesWhitebunnysuit
   - LoadoutCoolCoyoteClothesWhitegown
   - LoadoutCoolCoyoteClothesWhitesun
   - LoadoutCoolCoyoteClothesYellowwshort
-  - LoadoutCoolCoyoteClothesGearHarness
+  # - LoadoutCoolCoyoteClothesGearHarness

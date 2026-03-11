@@ -595,23 +595,23 @@
       jumpsuit:
       - state: conquistador
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesCorset
-  name: corset
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: corset
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: corset
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesCorset
+#   name: corset
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: corset
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: corset
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -739,23 +739,23 @@
       jumpsuit:
       - state: divine_robes
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesDomina
-  name: domina latex
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: domina
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: domina
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesDomina
+#   name: domina latex
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: domina
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: domina
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -1603,23 +1603,23 @@
       jumpsuit:
       - state: landschneckt
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesLatexHalf
-  name: latex singlet
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: latex_half
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: latex_half
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesLatexHalf
+#   name: latex singlet
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: latex_half
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: latex_half
 
 - type: entity
   parent: [ClothingTopless, CoolCoyoteClothes]
@@ -1657,23 +1657,23 @@
       jumpsuit:
       - state: leaves_skirt_long
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesLeia
-  name: leia
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: leia
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: leia
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesLeia
+#   name: leia
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: leia
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: leia
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -1711,23 +1711,23 @@
       jumpsuit:
       - state: littleblackdress_s
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesLoincloth
-  name: DEATHKILLARZ loincloth
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: loincloth
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: loincloth
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesLoincloth
+#   name: DEATHKILLARZ loincloth
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: loincloth
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: loincloth
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -1783,23 +1783,23 @@
       jumpsuit:
       - state: marlowduds
 
-- type: entity
-  parent: [ClothingTopless, CoolCoyoteClothes]
-  id: CoolCoyoteClothesMayanLoincloth
-  name: mayan loincloth
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: mayan_loincloth
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: mayan_loincloth
+# - type: entity
+#   parent: [ClothingTopless, CoolCoyoteClothes]
+#   id: CoolCoyoteClothesMayanLoincloth
+#   name: mayan loincloth
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: mayan_loincloth
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: mayan_loincloth
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -3295,23 +3295,23 @@
       jumpsuit:
       - state: western_bustle
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesWhitebunnysuit
-  name: white bunnysuit
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: whitebunnysuit
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: whitebunnysuit
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesWhitebunnysuit
+#   name: white bunnysuit
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: whitebunnysuit
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: whitebunnysuit
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -3367,20 +3367,20 @@
       jumpsuit:
       - state: yellowwshort
 
-- type: entity
-  parent: [ClothingNude, CoolCoyoteClothes]
-  id: CoolCoyoteClothesGearHarness
-  name: nudist gear harness
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: gearharnessicon
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: gearharness
+# - type: entity
+#   parent: [ClothingNude, CoolCoyoteClothes]
+#   id: CoolCoyoteClothesGearHarness
+#   name: nudist gear harness
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: gearharnessicon
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: gearharness
