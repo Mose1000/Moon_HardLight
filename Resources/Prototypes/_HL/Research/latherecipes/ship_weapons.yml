@@ -420,3 +420,9 @@
   parent: BaseMediumWeaponBoardRecipe
   id: CivBigThrusterBoard
   result: CivBigThrusterBoard
+
+# Shuttle gunnery control computer #moonlight
+- type: latheRecipe
+  parent: [ BaseGoldCircuitboardRecipe, BaseSupplyComputerRecipeCategory ]
+  id: GunneryControlComputerCircuitboard
+  result: GunneryControlComputerCircuitboard

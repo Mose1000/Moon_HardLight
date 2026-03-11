@@ -125,6 +125,7 @@
   - CapitalShipWeaponFrame
   - CapitalShipWeaponServo
   - CapitalShipWeaponInternal
+  - GunneryControlComputerCircuitboard #moonlight
 
 - type: technology
   id: CyberneticWarfare
