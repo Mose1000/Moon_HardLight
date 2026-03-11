@@ -15,8 +15,6 @@
   - MatterBinStockPart
   - CapacitorStockPart
   - ConveyorBeltAssembly
-  - InjectorCollar
-  - InjectorCollarCryo
 
 - type: latheRecipePack
   id: LightsStatic
