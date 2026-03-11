@@ -61,6 +61,7 @@
   minLimit: 0
   loadouts:
   - StationRepClothingHandsGlovesSr
+<<<<<<< HEAD
 # HL start - Add loadout options
   - CaptainClothingHandsGloves
   - CaptainClothingHandsWarmers
@@ -69,6 +70,8 @@
   fallbacks:
   - CaptainClothingHandsGloves
 # HL end
+=======
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: loadoutGroup
   id: StationRepNeck

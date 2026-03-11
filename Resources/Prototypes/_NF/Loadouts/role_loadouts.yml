@@ -127,11 +127,11 @@
   groups:
   - ContractorNeck
   - MailCarrierJumpsuit
-  - MailCarrierGloves # HL - Add departmental NF-style loadouts
+  - ContractorGloves
   - MailCarrierBackpack
   - MailCarrierOuterClothing
   - MailCarrierForcedOuterClothing
-  - MailCarrierShoes # HL - Add departmental NF-style loadouts
+  - ContractorShoes
   - ContractorFace
   - ContractorEars
   - ContractorEncryptionKey
@@ -146,6 +146,7 @@
 - type: roleLoadout
   id: JobStationTrafficController
   groups:
+<<<<<<< HEAD
   - StationRepNeck
   - StationRepHead
   - StationRepGloves
@@ -153,6 +154,16 @@
   - StationRepOuterClothing
   - StationRepForcedOuterClothing
   - StationRepJumpsuit
+=======
+  - StcHead
+  - ContractorNeck
+  - StcJumpsuit
+  - ContractorGloves
+  - ContractorBackpack
+  - ContractorOuterClothing
+  - StcForcedOuterClothing
+  - StcShoes
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorFace
   - ContractorGlasses
   - ContractorBelt

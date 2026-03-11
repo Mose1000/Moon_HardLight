@@ -5,9 +5,12 @@
   - MailCarrierClothingUniformJumpsuitMailCarrier
   - MailCarrierClothingUniformJumpskirtMailCarrier
   - MailCarrierClothingUniformJumpsuitMilitaryMailCarrier
+<<<<<<< HEAD
   - MailCarrierClothingJumpsuitThong # HL - Add lingerie
   subgroups:
   - CargoJumpsuit # HL - Add departmental NF-style loadouts
+=======
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   fallbacks:
   - MailCarrierClothingUniformJumpsuitMailCarrier
   - MailCarrierClothingUniformJumpskirtMailCarrier

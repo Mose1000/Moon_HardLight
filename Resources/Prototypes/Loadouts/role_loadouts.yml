@@ -9,18 +9,23 @@
   - CaptainOuterClothing
   - Survival
   - Trinkets
+  - GroupSpeciesBreathTool
+  - CaptainGear
 
 - type: roleLoadout
   id: JobHeadOfPersonnel
   groups:
+  - GroupTankHarness
   - HoPHead
   - HoPNeck
   - HoPJumpsuit
   - HoPBackpack
   - HoPOuterClothing
+  - CommandGear # HL - Add lingerie
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
-  - HoPShoes
-  - HoPGloves
+  - StcShoes
+  - ContractorGloves
   - StcForcedOuterClothing
   - ContractorFace
   - ContractorGlasses
@@ -30,7 +35,7 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
-# HL end
+# HL End
 
 # Silicons
 - type: roleLoadout
@@ -47,7 +52,11 @@
 - type: roleLoadout
   id: JobPassenger
   groups:
+<<<<<<< HEAD
   - ContractorBoxSurvival
+=======
+  - GroupTankHarness
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - PassengerJumpsuit
   - CommonBackpack
   - PassengerNeck
@@ -58,18 +67,21 @@
   - Glasses
   - Survival
   - Trinkets
+  - GroupSpeciesBreathTool
 
 - type: roleLoadout
   id: JobBartender
   groups:
+  - GroupTankHarness
   - BartenderHead
   - BartenderJumpsuit
   - BartenderOuterClothing
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorNeck
-  - BartenderGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
-  - BartenderShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -79,21 +91,27 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobServiceWorker
   groups:
+  - GroupTankHarness
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
-  - ServiceJumpsuit
+  - ValetJumpsuit
   - CommonBackpack
-  - ContractorOuterClothing
-  - ContractorForcedOuterClothing
+  - ValetOuterClothing
+  - ValetForcedOuterClothing
   - ContractorHead
   - ContractorNeck
-  - ServiceGloves
-  - ServiceShoes
+  - ContractorGloves
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -102,22 +120,28 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobChef
   groups:
+  - GroupTankHarness
   - ChefHead
   - ChefMask
   - ChefJumpsuit
   - CommonBackpack
   - ChefOuterClothing
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorNeck
-  - ChefGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
-  - ChefShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -126,21 +150,27 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobLibrarian
   groups:
+  - GroupTankHarness
   - LibrarianJumpsuit
   - CommonBackpack
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorHead
   - ContractorNeck
-  - ServiceGloves
+  - ContractorGloves
   - ContractorOuterClothing
   - ContractorForcedOuterClothing
-  - LibrarianShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -149,21 +179,27 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobLawyer
   groups:
+  - GroupTankHarness
   - LawyerNeck
   - LawyerJumpsuit
   - CommonBackpack
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorHead
-  - ServiceGloves
+  - ContractorGloves
   - ContractorOuterClothing
   - ContractorForcedOuterClothing
-  - LawyerShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -172,22 +208,28 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - SecurityForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobChaplain
   groups:
+  - GroupTankHarness
   - ChaplainHead
   - ChaplainMask
   - ChaplainNeck
   - ChaplainJumpsuit
   - CommonBackpack
   - ChaplainOuterClothing
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
-  - ChaplainGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
-  - ChaplainShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -196,22 +238,28 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ChaplainForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobJanitor
   groups:
+  - GroupTankHarness
   - JanitorHead
   - JanitorJumpsuit
   - JanitorGloves
   - CommonBackpack
   - JanitorOuterClothing
   - JanitorPlunger
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorNeck
   - ContractorForcedOuterClothing
-  - JanitorShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -220,21 +268,27 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - JanitorForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobBotanist
   groups:
+  - GroupTankHarness
   - BotanistHead
   - BotanistJumpsuit
   - BotanistBackpack
   - BotanistOuterClothing
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorNeck
-  - ServiceGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
-  - BotanistShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -243,13 +297,18 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - BotanistForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobClown
   canCustomizeName: true
   groups:
+  - GroupTankHarness
   - ClownHead
   - ClownJumpsuit
   - ClownBackpack
@@ -258,22 +317,27 @@
   - SurvivalClown
 # HL start - Add departmental NF-style loadouts
   - ContractorNeck
-  - ServiceGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
-  - ClownMask
+  - ContractorFace
   - ContractorGlasses
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobMime
   canCustomizeName: true
   groups:
+  - GroupTankHarness
   - MimeHead
   - MimeMask
   - MimeJumpsuit
@@ -283,54 +347,67 @@
   - SurvivalMime
 # HL start - Add departmental NF-style loadouts
   - ContractorNeck
-  - MimeGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
-  - MimeShoes
+  - ContractorShoes
+  - ContractorFace
   - ContractorGlasses
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobMusician
   groups:
+  - GroupTankHarness
   - MusicianJumpsuit
   - CommonBackpack
   - MusicianOuterClothing
   - Instruments
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorHead
   - ContractorNeck
-  - MusicianGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
-  - MusicianShoes
+  - ContractorShoes
   - ContractorFace
-  - MusicianGlasses
+  - ContractorGlasses
   - ContractorBoxSurvival
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 # Cargo
 - type: roleLoadout
   id: JobQuartermaster
   groups:
+  - GroupTankHarness
   - QuartermasterHead
   - QuartermasterNeck
   - QuartermasterJumpsuit
   - CargoTechnicianBackpack
   - QuartermasterOuterClothing
   - QuartermasterShoes
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
-  - QuartermasterGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
   - ContractorFace
   - ContractorGlasses
@@ -340,20 +417,26 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - CargoForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobCargoTechnician
   groups:
+  - GroupTankHarness
   - CargoTechnicianHead
   - CargoTechnicianJumpsuit
   - CargoTechnicianBackpack
   - CargoTechnicianOuterClothing
   - CargoTechnicianShoes
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorNeck
-  - CargoGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
   - ContractorFace
   - ContractorGlasses
@@ -363,21 +446,26 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - CargoForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobSalvageSpecialist
   groups:
+  - GroupTankHarness
 # HL start - Add departmental NF-style loadouts
   - MercenaryHead
   - ContractorNeck
-  - SalvageSpecialistJumpsuit
-  - SalvageSpecialistGloves
-  - SalvageSpecialistBackpack
-  - SalvageSpecialistOuterClothing
+  - MercenaryJumpsuit
+  - MercenaryGloves
+  - MercenaryBackpack
+  - MercenaryOuterClothing
   - MercenaryForcedOuterClothing
-  - SalvageSpecialistShoes
+  - MercenaryShoes
   - MercenaryFace
   - MercenaryGlasses
   - MercenaryBelt
@@ -387,12 +475,13 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
-# HL end
+# HL End
 
 # Engineering
 - type: roleLoadout
   id: JobChiefEngineer
   groups:
+  - GroupTankHarness
   - ChiefEngineerHead
   - ChiefEngineerJumpsuit
   - StationEngineerBackpack
@@ -400,10 +489,12 @@
   - ChiefEngineerOuterClothing
   - ChiefEngineerShoes
   - SurvivalExtended
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
-  - ChiefEngineerGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
   - ContractorFace
+<<<<<<< HEAD
   - EngineeringGlasses
   - ContractorWallet
   - ContractorImplanter
@@ -427,18 +518,49 @@
   - ContractorForcedOuterClothing
   - TechnicalAssistantShoes
   - ContractorFace
+=======
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorGlasses
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - EngineerForcedOuterClothing
 # HL end
+=======
+# HL End
+
+- type: roleLoadout
+  id: JobTechnicalAssistant
+  groups:
+  - GroupTankHarness
+  - TechnicalAssistantJumpsuit
+  - StationEngineerBackpack
+  - SurvivalExtended
+  - GroupSpeciesBreathTool
+# HL start - Add departmental NF-style loadouts
+  - ContractorHead
+  - ContractorNeck
+  - ContractorGloves
+  - ContractorOuterClothing
+  - ContractorForcedOuterClothing
+  - ContractorShoes
+  - ContractorFace
+  - ContractorGlasses
+  - ContractorWallet
+  - ContractorImplanter
+  - ContractorBackpackItems
+  - ContractorHandItems
+  - NFSpeciesSpecific
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobStationEngineer
   groups:
+  - GroupTankHarness
   - StationEngineerHead
   - StationEngineerJumpsuit
   - StationEngineerBackpack
@@ -446,47 +568,59 @@
   - StationEngineerShoes
   - StationEngineerID
   - SurvivalExtended
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorNeck
-  - EngineeringGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
   - ContractorFace
-  - EngineeringGlasses
+  - ContractorGlasses
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - EngineerForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobAtmosphericTechnician
   groups:
+  - GroupTankHarness
   - AtmosphericTechnicianJumpsuit
   - AtmosphericTechnicianBackpack
   - AtmosphericTechnicianOuterClothing
   - AtmosphericTechnicianShoes
   - SurvivalExtended
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorHead
   - ContractorNeck
-  - EngineeringGloves
+  - ContractorGloves
   - ContractorForcedOuterClothing
   - ContractorFace
-  - EngineeringGlasses
+  - ContractorGlasses
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - AtmosphericTechnicianForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 # Science
 - type: roleLoadout
   id: JobResearchDirector
   groups:
+  - GroupTankHarness
   - ResearchDirectorHead
   - ResearchDirectorNeck
   - ResearchDirectorJumpsuit
@@ -494,6 +628,7 @@
   - ResearchDirectorOuterClothing
   - ScientistGloves
   - ResearchDirectorShoes
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorForcedOuterClothing
   - ContractorFace
@@ -504,12 +639,17 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
+<<<<<<< HEAD
   - ScienceForcedOuterClothing
 # HL end
+=======
+# HL End
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 
 - type: roleLoadout
   id: JobScientist
   groups:
+  - GroupTankHarness
   - ScientistHead
   - ScientistNeck
   - ScientistJumpsuit
@@ -518,6 +658,7 @@
   - ScientistGloves
   - ScientistShoes
   - ScientistPDA
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorForcedOuterClothing
   - ContractorFace
@@ -534,15 +675,17 @@
 - type: roleLoadout
   id: JobResearchAssistant
   groups:
+  - GroupTankHarness
   - ResearchAssistantJumpsuit
   - ScientistBackpack
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - ContractorHead
   - ContractorNeck
-  - ScienceGloves
+  - ContractorGloves
   - ContractorOuterClothing
   - ContractorForcedOuterClothing
-  - ResearchAssistantShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -558,61 +701,84 @@
 - type: roleLoadout
   id: JobHeadOfSecurity
   groups:
-  - GroupTankHarness
   - HeadofSecurityHead
   - HeadofSecurityNeck
   - HeadofSecurityJumpsuit
   - SecurityBackpack
   - SecurityBelt
   - HeadofSecurityOuterClothing
+  - SecurityShoes
   - SecurityStar
-  - SurvivalSecurity
+  - GroupSpeciesBreathToolSecurity
 # HL start - Add departmental NF-style loadouts
+<<<<<<< HEAD
   - SecurityForcedOuterClothing
   - ContractorForcedOuterClothing
   - HeadofSecurityGloves
   - HeadofSecurityShoes
   - ContractorFace
   - SecurityGlasses
+=======
+  - NfsdGlovesCream
+  - NfsdForcedOuterClothing
+  - SheriffFace
+  - NfsdGlasses
+  - NfsdBoxSurvival
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - SeniorOfficerBackpackItems
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
+<<<<<<< HEAD
   - ContractorBoxSurvival
+=======
+  - NfsdSpeciesSpecific
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 # HL end
 
 - type: roleLoadout
   id: JobWarden
   groups:
-  - GroupTankHarness
   - WardenHead
   - WardenJumpsuit
   - SecurityBackpack
   - SecurityBelt
   - WardenOuterClothing
+  - SecurityShoes
   - SecurityStar
-  - SurvivalSecurity
+  - GroupSpeciesBreathToolSecurity
 # HL start - Add departmental NF-style loadouts
+<<<<<<< HEAD
   - SecurityForcedOuterClothing
   - WardenShoes
   - SecurityGloves
   - ContractorForcedOuterClothing
   - ContractorFace
   - SecurityGlasses
+=======
+  - NfsdGlovesCream
+  - NfsdForcedOuterClothing
+  - NfsdFace
+  - NfsdGlasses
+  - NfsdBoxSurvival
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - SeniorOfficerBackpackItems
   - ContractorNeck
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
+<<<<<<< HEAD
   - ContractorBoxSurvival
+=======
+  - NfsdSpeciesSpecific
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 # HL end
 
 - type: roleLoadout
   id: JobSecurityOfficer
   groups:
-  - GroupTankHarness
   - SecurityHead
   - SecurityJumpsuit
   - SecurityBackpack
@@ -621,6 +787,7 @@
   - SecurityPDA
   - SecurityBelt
   - SecurityStar
+<<<<<<< HEAD
   - SurvivalSecurity
 # HL start - Add departmental NF-style loadouts
   - SecurityForcedOuterClothing
@@ -628,23 +795,36 @@
   - ContractorForcedOuterClothing
   - ContractorFace
   - SecurityGlasses
+=======
+  - GroupSpeciesBreathToolSecurity
+# HL start - Add departmental NF-style loadouts
+  - NfsdGlovesBrown
+  - NfsdForcedOuterClothing
+  - NfsdFace
+  - NfsdGlasses
+  - NfsdBoxSurvival
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorNeck
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
+<<<<<<< HEAD
   - ContractorBoxSurvival
+=======
+  - NfsdSpeciesSpecific
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 # HL end
 
 - type: roleLoadout
   id: JobDetective
   groups:
-  - GroupTankHarness
   - DetectiveHead
   - DetectiveNeck
   - DetectiveJumpsuit
   - SecurityBackpack
   - DetectiveOuterClothing
+<<<<<<< HEAD
   - DetectiveShoes
   - SecurityStar
   - SurvivalSecurity
@@ -654,20 +834,35 @@
   - ContractorForcedOuterClothing
   - ContractorFace
   - SecurityGlasses
+=======
+  - SecurityShoes
+  - SecurityStar
+  - GroupSpeciesBreathToolSecurity
+# HL start - Add departmental NF-style loadouts
+  - NFDetectiveGloves
+  - NfsdForcedOuterClothing
+  - NfsdFace
+  - NfsdGlasses
+  - NfsdBoxSurvival
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorNeck
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
+<<<<<<< HEAD
   - ContractorBoxSurvival
+=======
+  - NfsdSpeciesSpecific
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 # HL end
 
 - type: roleLoadout
   id: JobSecurityCadet
   groups:
-  - GroupTankHarness
   - SecurityCadetJumpsuit
   - SecurityBackpack
+<<<<<<< HEAD
   - SurvivalSecurity
 # HL start - Add departmental NF-style loadouts
   - SecurityForcedOuterClothing
@@ -675,32 +870,50 @@
   - ContractorForcedOuterClothing
   - ContractorFace
   - ContractorGlasses
+=======
+  - GroupSpeciesBreathToolSecurity
+# HL start - Add departmental NF-style loadouts
+  - NfsdGlovesBrown
+  - NfsdForcedOuterClothing
+  - NfsdFace
+  - NfsdGlasses
+  - NfsdBoxSurvival
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorHead
   - ContractorNeck
   - ContractorOuterClothing
-  - SecurityCadetShoes
+  - ContractorShoes
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
   - ContractorHandItems
+<<<<<<< HEAD
   - ContractorBoxSurvival
+=======
+  - NfsdSpeciesSpecific
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 # HL end
 
 # Medical
 - type: roleLoadout
   id: JobChiefMedicalOfficer
   groups:
+  - GroupTankHarness
   - ChiefMedicalOfficerHead
   - MedicalMask
   - ChiefMedicalOfficerJumpsuit
-  - MedicalBackpack
   - ChiefMedicalOfficerOuterClothing
   - ChiefMedicalOfficerNeck
   - ChiefMedicalOfficerShoes
   - MedicalEyewear
   - SurvivalMedical
+<<<<<<< HEAD
+=======
+  - GroupSpeciesBreathToolMedical
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 # HL start - Add departmental NF-style loadouts
-  - ChiefMedicalOfficerGloves
+  - DocGloves
+  - DocBackpack
   - DocForcedOuterClothing
   - ContractorGlasses
   - ContractorWallet
@@ -713,6 +926,7 @@
 - type: roleLoadout
   id: JobMedicalDoctor
   groups:
+  - GroupTankHarness
   - MedicalDoctorHead
   - MedicalMask
   - MedicalDoctorJumpsuit
@@ -723,6 +937,10 @@
   - MedicalDoctorPDA
   - MedicalEyewear
   - SurvivalMedical
+<<<<<<< HEAD
+=======
+  - GroupSpeciesBreathToolMedical
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 # HL start - Add departmental NF-style loadouts
   - DocForcedOuterClothing
   - ContractorNeck
@@ -737,18 +955,23 @@
 - type: roleLoadout
   id: JobMedicalIntern
   groups:
+  - GroupTankHarness
   - MedicalInternJumpsuit
   - MedicalBackpack
   - MedicalEyewear
   - SurvivalMedical
+<<<<<<< HEAD
+=======
+  - GroupSpeciesBreathToolMedical
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
 # HL start - Add departmental NF-style loadouts
   - DocForcedOuterClothing
   - ContractorHead
   - ContractorNeck
-  - MedicalInternGloves
+  - ContractorGloves
   - ContractorOuterClothing
   - ContractorForcedOuterClothing
-  - MedicalShoes
+  - ContractorShoes
   - ContractorFace
   - ContractorWallet
   - ContractorImplanter
@@ -760,19 +983,28 @@
 - type: roleLoadout
   id: JobChemist
   groups:
+  - GroupTankHarness
   - MedicalMask
   - ChemistJumpsuit
+  - MedicalGloves
   - ChemistBackpack
   - ChemistOuterClothing
+<<<<<<< HEAD
   - SurvivalMedical
 # HL start - Add departmental NF-style loadouts
   - DocForcedOuterClothing
   - ChemistGloves
   - ChemistShoes
+=======
+  - MedicalShoes
+  - SurvivalMedical
+  - GroupSpeciesBreathToolMedical
+# HL start - Add departmental NF-style loadouts
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorHead
   - ContractorNeck
   - ContractorForcedOuterClothing
-  - ChemistGlasses
+  - ContractorGlasses
   - ContractorWallet
   - ContractorImplanter
   - ContractorBackpackItems
@@ -783,17 +1015,24 @@
 - type: roleLoadout
   id: JobParamedic
   groups:
+  - GroupTankHarness
   - ParamedicHead
   - MedicalMask
   - ParamedicJumpsuit
+  - MedicalGloves
   - MedicalBackpack
   - ParamedicOuterClothing
   - ParamedicShoes
   - MedicalEyewear
   - SurvivalMedical
+<<<<<<< HEAD
 # HL start - Add departmental NF-style loadouts
   - DocForcedOuterClothing
   - ParamedicGloves
+=======
+  - GroupSpeciesBreathToolMedical
+# HL start - Add departmental NF-style loadouts
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorNeck
   - ContractorForcedOuterClothing
   - ContractorWallet
@@ -808,15 +1047,19 @@
   id: JobZookeeper
   groups:
 # HL start - Add departmental NF-style loadouts
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
   - ServiceJumpsuit
+=======
+  - ValetJumpsuit
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - CommonBackpack
-  - ContractorOuterClothing
-  - ContractorForcedOuterClothing
+  - ValetOuterClothing
+  - ValetForcedOuterClothing
   - ContractorHead
   - ContractorNeck
-  - ServiceGloves
-  - ServiceShoes
+  - ContractorGloves
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -825,21 +1068,28 @@
   - ContractorBackpackItems
   - ContractorHandItems
   - NFSpeciesSpecific
-# HL end
+# HL End
 
 - type: roleLoadout
   id: JobReporter
   groups:
+  - GroupTankHarness
   - ReporterJumpsuit
   - CommonBackpack
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
+<<<<<<< HEAD
   - ServiceForcedOuterClothing
   - ContractorOuterClothing
   - ContractorForcedOuterClothing
+=======
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorHead
   - ContractorNeck
-  - ServiceGloves
-  - ServiceShoes
+  - ContractorGloves
+  - ContractorOuterClothing
+  - ContractorForcedOuterClothing
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -853,16 +1103,23 @@
 - type: roleLoadout
   id: JobPsychologist
   groups:
+  - GroupTankHarness
   - PsychologistJumpsuit
   - MedicalBackpack
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
+<<<<<<< HEAD
   - DocForcedOuterClothing
   - ContractorOuterClothing
   - ContractorForcedOuterClothing
+=======
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorHead
   - ContractorNeck
-  - PsychologistGloves
-  - MedicalShoes
+  - ContractorGloves
+  - ContractorOuterClothing
+  - ContractorForcedOuterClothing
+  - ContractorShoes
   - ContractorFace
   - ContractorGlasses
   - ContractorBoxSurvival
@@ -876,9 +1133,11 @@
 - type: roleLoadout
   id: JobBoxer
   groups:
+  - GroupTankHarness
   - BoxerJumpsuit
   - BoxerGloves
   - CommonBackpack
+  - GroupSpeciesBreathTool
 # HL start - Add departmental NF-style loadouts
   - BoxerForcedOuterClothing
   - ContractorHead

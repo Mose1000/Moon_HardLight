@@ -29,7 +29,12 @@
 - type: startingGear
   id: SecurityOfficerGear
   equipment:
+<<<<<<< HEAD
 #    eyes: ClothingEyesGlassesSecurity # HL - Add departmental NF-style loadouts
+=======
+    id: SecurityPDA
+    eyes: ClothingEyesGlassesSecurity
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
     ears: ClothingHeadsetSecurity
     pocket1: NFWeaponPistolMk58 # Frontier: use NF variant
   storage:

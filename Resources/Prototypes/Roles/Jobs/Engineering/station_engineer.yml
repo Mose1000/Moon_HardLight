@@ -22,7 +22,12 @@
 - type: startingGear
   id: StationEngineerGear
   equipment:
+<<<<<<< HEAD
 #    eyes: ClothingEyesGlassesMeson # HL - Add departmental NF-style loadouts
+=======
+    id: EngineerPDA
+    eyes: ClothingEyesGlassesMeson
+>>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
     belt: ClothingBeltUtilityEngineering # Frontier - Moved to locker
     ears: ClothingHeadsetEngineering
   #storage:
