@@ -16,9 +16,6 @@
     #EncryptionKeyCargo: 10
     ClothingOuterWinterCargo: 2
     ClothingShoesBootsWinterCargo: 2
-    ClothingNeckCollarLogi: 2 # Floofstation - Collar addition
-    # MailBag: 2 # Frontier
-    # Frontier
     ClothingNeckScarfStripedBrown: 3
 # Salvage:
     ClothingBackpackSalvage: 2
