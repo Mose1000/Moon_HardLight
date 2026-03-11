@@ -296,14 +296,14 @@
   - LoadoutCoolCoyoteClothesKimonoViolet
   - LoadoutCoolCoyoteClothesKimonoYellow
   - LoadoutCoolCoyoteClothesLandschneckt
-  - LoadoutCoolCoyoteClothesLatexHalf
+  # - LoadoutCoolCoyoteClothesLatexHalf
   - LoadoutCoolCoyoteClothesLeavesSkirt
   - LoadoutCoolCoyoteClothesLeavesSkirtLong
   - LoadoutCoolCoyoteClothesLeia
   - LoadoutCoolCoyoteClothesLightHanfu
   - LoadoutCoolCoyoteClothesLittleBlackDress
-  - LoadoutCoolCoyoteClothesLoincloth
-  - LoadoutCoolCoyoteClothesSexyMaid
+  # - LoadoutCoolCoyoteClothesLoincloth
+  # - LoadoutCoolCoyoteClothesSexyMaid
   - LoadoutCoolCoyoteClothesMaurader
   - LoadoutCoolCoyoteClothesMarlowDuds
   - LoadoutCoolCoyoteClothesMayanLoincloth
@@ -338,12 +338,12 @@
   - LoadoutCoolCoyoteClothesRedWshort
   - LoadoutCoolCoyoteClothesRevealingDress
   - LoadoutCoolCoyoteClothesRippedPunk
-  - LoadoutCoolCoyoteClothesSecslutskirt
-  - LoadoutCoolCoyoteClothesSecslutskirtpink
-  - LoadoutCoolCoyoteClothesSecstripper
-  - LoadoutCoolCoyoteClothesSexyclown
-  - LoadoutCoolCoyoteClothesSexymime
-  - LoadoutCoolCoyoteClothesSexynursesuit
+  # - LoadoutCoolCoyoteClothesSecslutskirt
+  # - LoadoutCoolCoyoteClothesSecslutskirtpink
+  # - LoadoutCoolCoyoteClothesSecstripper
+  # - LoadoutCoolCoyoteClothesSexyclown
+  # - LoadoutCoolCoyoteClothesSexymime
+  # - LoadoutCoolCoyoteClothesSexynursesuit
   - LoadoutCoolCoyoteClothesShamanblue
   - LoadoutCoolCoyoteClothesSheerblue
   - LoadoutCoolCoyoteClothesShortPink
@@ -677,10 +677,6 @@
   - ContractorClothingShoesJester
   - ContractorClothingShoesBootsPerformer
   - ContractorClothingShoesSkates
-<<<<<<< HEAD
-  - ContractorClothingShoesCoderValidSocks # HL - Add lingerie to generic loadouts
-=======
->>>>>>> parent of 797bcd203d (Add departmental NF-style loadouts continued)
   - ContractorClothingShoesClownLarge
   - ContractorClothingShoesBling
   fallbacks:
@@ -892,15 +888,15 @@
   - ContractorClothingNeckCloakVoid
   - ContractorClothingNeckBling
   # Flooftier collars start
-  - FloofClothingCollarBlue
-  - FloofClothingCollarBlack
-  - FloofClothingCollarPink
-  - FloofClothingCollarEpi
-  - FloofClothingCollarEngi
-  - FloofClothingCollarLogi
-  - FloofClothingCollarMed
-  - FloofClothingCollarCmd
-  - FloofClothingShockCollar
+  # - FloofClothingCollarBlue
+  # - FloofClothingCollarBlack
+  # - FloofClothingCollarPink
+  # - FloofClothingCollarEpi
+  # - FloofClothingCollarEngi
+  # - FloofClothingCollarLogi
+  # - FloofClothingCollarMed
+  # - FloofClothingCollarCmd
+  # - FloofClothingShockCollar
   # Flooftier collars end
 
 - type: loadoutGroup
@@ -1143,7 +1139,7 @@
   - ClothingNeckTransPin
   - ClothingNeckAutismPin
   - ClothingNeckGoldAutismPin
-  - LeashBasic # Floofstation
+  # - LeashBasic # Floofstation
 
 - type: loadoutGroup
   id: ContractorBoxSurvival

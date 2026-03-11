@@ -448,14 +448,14 @@
   equipment:
     jumpsuit: CoolCoyoteClothesDutch
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesExplorerStripper
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesExplorerStripper
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesExplorerStripper
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesExplorerStripper
 
 - type: loadout
   id: LoadoutCoolCoyoteClothesFlamenco
@@ -844,23 +844,23 @@
   equipment:
     jumpsuit: CoolCoyoteClothesLittleBlackDress
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesLoincloth
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesLoincloth
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesLoincloth
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesLoincloth
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesSexyMaid
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesSexyMaid
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesSexyMaid
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesSexyMaid
 
 - type: loadout
   id: LoadoutCoolCoyoteClothesMaurader
@@ -1168,59 +1168,59 @@
   equipment:
     jumpsuit: CoolCoyoteClothesRippedPunk
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesSecslutskirt
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesSecslutskirt
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesSecslutskirt
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesSecslutskirt
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesSecslutskirtpink
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesSecslutskirtpink
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesSecslutskirtpink
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesSecslutskirtpink
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesSecstripper
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesSecstripper
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesSecstripper
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesSecstripper
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesSexyclown
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesSexyclown
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesSexyclown
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesSexyclown
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesSexymime
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesSexymime
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesSexymime
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesSexymime
 
-- type: loadout
-  id: LoadoutCoolCoyoteClothesSexynursesuit
-  price: 600
-#  effects:
-#  - !type:GroupLoadoutEffect
-#    proto: ContractorT1
-  equipment:
-    jumpsuit: CoolCoyoteClothesSexynursesuit
+# - type: loadout
+#   id: LoadoutCoolCoyoteClothesSexynursesuit
+#   price: 600
+# #  effects:
+# #  - !type:GroupLoadoutEffect
+# #    proto: ContractorT1
+#   equipment:
+#     jumpsuit: CoolCoyoteClothesSexynursesuit
 
 - type: loadout
   id: LoadoutCoolCoyoteClothesShamanblue

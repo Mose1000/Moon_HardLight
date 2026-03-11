@@ -451,23 +451,23 @@
       jumpsuit:
       - state: brownpunkpants
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesBunnySuit
-  name: sexy bunny suit
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: bunnysuit
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: bunnysuit
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesBunnySuit
+#   name: sexy bunny suit
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: bunnysuit
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: bunnysuit
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -775,23 +775,23 @@
       jumpsuit:
       - state: doug_dimmadome
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesDraculass
-  name: draculass slutskirt
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: draculass
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: draculass
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesDraculass
+#   name: draculass slutskirt
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: draculass
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: draculass
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -919,23 +919,23 @@
       jumpsuit:
       - state: dutch
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesExplorerStripper
-  name: explorer stripper
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: explorerstripper
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: explorerstripper
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesExplorerStripper
+#   name: explorer stripper
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: explorerstripper
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: explorerstripper
 
 - type: entity
   parent: CoolCoyoteClothes
@@ -2359,113 +2359,113 @@
       jumpsuit:
       - state: rippedpunk
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesSecslutskirt
-  name: sexy redsec skirt
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: secslutskirt
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: secslutskirt
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesSecslutskirt
+#   name: sexy redsec skirt
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: secslutskirt
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: secslutskirt
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesSecslutskirtpink
-  name: sexy mauvesec skirt
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: secslutskirtpink
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: secslutskirtpink
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesSecslutskirtpink
+#   name: sexy mauvesec skirt
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: secslutskirtpink
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: secslutskirtpink
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesSecstripper
-  name: sexy security stripper
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: secstripper
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: secstripper
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesSecstripper
+#   name: sexy security stripper
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: secstripper
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: secstripper
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesSexyclown
-  name: sexy clown outfit
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: sexyclown
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: sexyclown
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesSexyclown
+#   name: sexy clown outfit
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: sexyclown
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: sexyclown
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesSexymime
-  name: sexy mime outfit
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: sexymime
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: sexymime
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesSexymime
+#   name: sexy mime outfit
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: sexymime
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: sexymime
 
-- type: entity
-  parent: CoolCoyoteClothes
-  id: CoolCoyoteClothesSexynursesuit
-  name: sexy nurse outfit
-  description: |
-  components:
-  - type: Sprite
-    overrideDir: South
-    enableOverrideDir: true
-    sprite: _CS/Clothes/cbuniforms.rsi
-    layers:
-    - state: sexynursesuit
-  - type: Clothing
-    sprite: _CS/Clothes/cbuniforms.rsi
-    clothingVisuals:
-      jumpsuit:
-      - state: sexynursesuit
+# - type: entity
+#   parent: CoolCoyoteClothes
+#   id: CoolCoyoteClothesSexynursesuit
+#   name: sexy nurse outfit
+#   description: |
+#   components:
+#   - type: Sprite
+#     overrideDir: South
+#     enableOverrideDir: true
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     layers:
+#     - state: sexynursesuit
+#   - type: Clothing
+#     sprite: _CS/Clothes/cbuniforms.rsi
+#     clothingVisuals:
+#       jumpsuit:
+#       - state: sexynursesuit
 
 - type: entity
   parent: CoolCoyoteClothes
