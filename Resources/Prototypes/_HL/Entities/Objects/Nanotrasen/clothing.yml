@@ -79,58 +79,7 @@
   - type: Sprite
     sprite: _HL/Nanotrasen/nanotrasenduff.rsi
 
-#NT Bottom clothes
-- type: entity
-  parent: ClothingNeckCollarBase
-  id: ClothingNeckCollarNT
-  name: NT collar
-  description: A cute Nanotrasen branded collar.
-  components:
-  - type: Sprite
-    sprite: _HL/Nanotrasen/collar_nano.rsi
-  - type: Clothing
-    sprite: _HL/Nanotrasen/collar_nano.rsi
-    clothingVisuals:
-      neck-quadborg:
-      - sprite: _HL/Clothing/Neck/QuadCollars/collar_nt_quad.rsi
-        state: equipped-NECK-quadborg
 
-- type: entity
-  parent: ClothingUniformBaseThongs
-  id: ClothingUniformNTThong
-  name: Nanotrasen thong
-  description: A Nanotrasen branded thong! but is this even considered a piece of clothing?
-  components:
-  - type: Sprite
-    sprite: _HL/Nanotrasen/nanotrasenthong.rsi
-  - type: Clothing
-    sprite: _HL/Nanotrasen/nanotrasenthong.rsi
-
-- type: entity
-  parent: ClothingHandsBase
-  id: ClothingHandsNTWarmers
-  name: Nanotrasen arm-warmers
-  description: A pair of rather nice Nanotrasen branded arm-warmers.
-  components:
-  - type: Sprite
-    sprite: _HL/Nanotrasen/nanotrasenwarmer.rsi
-  - type: Clothing
-    sprite: _HL/Nanotrasen/nanotrasenwarmer.rsi
-  - type: Fiber
-    fiberMaterial: fibers-synthetic
-    fiberColor: fibers-black
-  - type: FingerprintMask
-
-- type: entity
-  parent: ClothingShoesBase
-  id: ClothingUnderSocksNT
-  name: Nanotrasen thigh-high socks
-  description: A pair of thigh-high socks.
-  components:
-  - type: Sprite
-    sprite: _HL/Nanotrasen/nanotrasensocks.rsi
-  - type: Clothing
-    sprite: _HL/Nanotrasen/nanotrasensocks.rsi
 #NT Winter clothes
 - type: entity
   parent: ClothingScarfBase
