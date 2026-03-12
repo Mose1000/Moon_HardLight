@@ -415,8 +415,7 @@ FoodMeatFiestaKebab: FoodKebabSkewer
 ClothingBeltSuspenders: ClothingBeltSuspendersRed
 
 # 2024-08-19
-# Floofstation - removed this migration as we're bringing this back
-# ClothingNeckShockCollar: ClothingBackpackElectropack
+ClothingNeckShockCollar: ClothingBackpackElectropack
 
 # 2024-08-22
 ComputerShuttleSalvage: null

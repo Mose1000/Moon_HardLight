@@ -261,7 +261,6 @@
     factions:
     - Passive
     - Chicken # Frontier
-  - type: LeashAnchor # Floofstation
     kind: Intrinsic
   - type: HTN # Frontier
     rootTask: # Frontier
@@ -650,7 +649,6 @@
           32:
             sprite: Mobs/Animals/mothroach/displacement.rsi
             state: neck
-  - type: LeashAnchor # Floofstation - mothroach my beloved <3
 
 
 # Note that the mallard duck is actually a male drake mallard, with the brown duck being the female variant of the same species, however ss14 lacks sex specific textures
@@ -730,7 +728,6 @@
   - type: NpcFactionMember
     factions:
     - Passive
-  - type: LeashAnchor # Floofstation
     kind: Intrinsic
   - type: HTN # Frontier
     rootTask: # Frontier
@@ -949,7 +946,6 @@
     guides:
     - Chef
     - FoodRecipes
-  - type: LeashAnchor # Floofstation
 
 - type: entity
   name: crab
@@ -1138,8 +1134,6 @@
   - type: HTN
     rootTask:
       task: RuminantHostileCompound
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
 
 # Note that we gotta make this bitch vomit someday when you feed it anthrax or sumthin. Needs to be a small item thief too and aggressive if attacked.
 - type: entity
@@ -1190,8 +1184,6 @@
   - type: NpcFactionMember
     factions:
     - Passive
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
   - type: Genetics # Funkystation - Genetics
     baseMutations:
     - id: OvipositionGlands
@@ -1251,7 +1243,6 @@
   - type: HTN
     rootTask:
       task: SimpleHostileCompound
-  - type: LeashAnchor # Floofstation
   - type: Genetics # Funkystation - Genetics
     baseMutations:
     - id: MusculatureEnhancement
@@ -1343,8 +1334,6 @@
   - type: HTN
     rootTask:
       task: SimpleHostileCompound
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
   - type: Genetics # Funkystation - Genetics
     mutationSlots: 4
     baseMutations:
@@ -1488,8 +1477,6 @@
       effects:
       - !type:WashCreamPieReaction
   - type: LabGrown # Frontier
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
   - type: LayingDown # HL  - type: Genetics # Funkystation - Genetics
   - type: Genetics # Funkystation - Genetics
     mutationSlots: 4
@@ -1929,7 +1916,6 @@
       Taco: RatTaco
       Burger: RatBurger
       Skewer: RatSkewer
-  - type: LeashAnchor # Floofstation
 
 - type: entity
   parent: MobMouse
@@ -2134,8 +2120,6 @@
   - type: Tag
     tags:
     - VimPilot
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
   - type: Genetics # Funkystation - Genetics
     baseMutations:
     - id: AdaptiveIridophores
@@ -2190,8 +2174,6 @@
     interactSuccessSpawn: EffectHearts
   - type: Bloodstream
     bloodMaxVolume: 50
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
 
 - type: entity
   name: frog
@@ -2803,8 +2785,6 @@
   - type: Tag
     tags:
     - VimPilot
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
 
 - type: entity
   name: possum
@@ -2880,8 +2860,6 @@
   - type: Tag
     tags:
     - VimPilot
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
 
 - type: entity
   name: fox
@@ -2961,8 +2939,6 @@
   - type: Tag
     tags:
     - VimPilot
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
 
 - type: entity
   name: corgi
@@ -3025,8 +3001,6 @@
   - type: Tag
     tags:
     - VimPilot
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
 
 - type: entity
   name: corrupted corgi
@@ -3196,8 +3170,6 @@
   - type: NpcFactionMember
     factions:
     - Cat
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
   # End DeltaV
 
 - type: entity
@@ -3476,8 +3448,6 @@
   - type: Tag
     tags:
     - VimPilot
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
   - type: Genetics # Funkystation - Genetics
     baseMutations:
     - id: LateralUndulation
@@ -3625,8 +3595,6 @@
   - type: FireVisuals
     sprite: Mobs/Effects/onfire.rsi
     normalState: Mouse_burning
-  - type: LeashAnchor # Floofstation
-    kind: Intrinsic
   - type: Genetics # Funkystation - Genetics
     baseMutations:
     - id: StoragePouch
@@ -3703,7 +3671,6 @@
   - type: HTN
     rootTask:
       task: RuminantCompound
-  - type: LeashAnchor # Floofstation
 
 - type: entity
   name: diona nymph
